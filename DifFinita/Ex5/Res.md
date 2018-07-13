@@ -1,14 +1,14 @@
-#Exercício 5
+# Discussão dos resultados
 
 A partir do gráfico 
 
-![Sem log](/diff.pdf)
+![Sem log](/DifFinita/Ex5/diff.pdf)
 
 não se nota uma diferença entre os pontos feitos com valores de *h* diferentes.
 
 Mas a partir do gráfico 
 
-![Com log](/Log_diff.pdf)
+![Com log](/DifFinita/Ex5/Log_diff.pdf)
 
 pode-se notar que os últimos pontos estão divergindo da solução analítica. O últmo ponto não diverge pois ele é um dado fornecido.
 
